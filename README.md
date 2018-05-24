@@ -6,4 +6,4 @@ APP : GOSH
 
 Wireframe 圖:
 
-![image]()
+![image](https://github.com/DNLiou/GOSH/blob/master/%E4%BC%81%E5%8A%83.png)
